@@ -17,7 +17,7 @@ This repository serves as a personal portfolio and educational resource, showcas
 
 This section contains all completed lab write-ups. Each directory includes a detailed `README.md` file explaining the specific attack chain for that machine.
 
-  * ### [FTP Anonymous Login and Weak Password]([https://www.google.com/search?q=./FTP-Vulnerability-Walkthrough/README.md](https://github.com/maisamnoyan/Penetration-Testing-Labs/blob/main/FTP%20Anonymous%20Login%20and%20Weak%20Password.pdf))
+  * ### [FTP Anonymous Login and Weak Password](https://github.com/maisamnoyan/Penetration-Testing-Labs/blob/main/FTP%20Anonymous%20Login%20and%20Weak%20Password.pdf)
       * **Description**: A detailed walkthrough on compromising a Linux VM by exploiting an anonymous FTP login. The process covers network scanning, service enumeration, cracking a hashed password found in a backup file, and gaining user-level shell access via SSH. The report concludes with hardening recommendations to mitigate the identified vulnerabilities.
       * **Key Vulnerabilities**: Anonymous FTP Access, Weak Password Hashing, Information Disclosure, Password Cracking.
 
