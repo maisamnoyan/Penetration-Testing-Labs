@@ -21,8 +21,6 @@ This section contains all completed lab write-ups. Each directory includes a det
       * **Description**: A detailed walkthrough on compromising a Linux VM by exploiting an anonymous FTP login. The process covers network scanning, service enumeration, cracking a hashed password found in a backup file, and gaining user-level shell access via SSH. The report concludes with hardening recommendations to mitigate the identified vulnerabilities.
       * **Key Vulnerabilities**: Anonymous FTP Access, Weak Password Hashing, Information Disclosure, Password Cracking.
 
-*(As you complete more labs, you can add them to this list.)*
-
 -----
 
 ## Common Tools Used
